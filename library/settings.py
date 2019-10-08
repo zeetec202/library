@@ -14,7 +14,7 @@ SECRET_KEY = '+zp9mk81pjt56b*9&ke6luemc_yu6ijmz%3ixccrnm7*h+x)@y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['libraryzeetec.herokuapp.com']
+ALLOWED_HOSTS = ['libraryzeetec20.herokuapp.com']
 
 
 # Application definition
